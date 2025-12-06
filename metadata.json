@@ -1,0 +1,5 @@
+{
+  "name": "Tiny Fortune",
+  "description": "A Farcaster mini-app that cracks open daily fortunes.",
+  "requestFramePermissions": []
+}
